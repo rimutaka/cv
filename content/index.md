@@ -38,6 +38,7 @@
 * [https://github.com/rimutaka](https://github.com/rimutaka)
 * Co-maintainer of [quickxml_to_serde](https://github.com/AlecTroemel/quickxml_to_serde), [tachograph-reader](https://github.com/jugglingcats/tachograph-reader)
 * Contributor to [AWS Lambda Rust runtime](https://github.com/awslabs/aws-lambda-rust-runtime) and other projects
+* Technical writing and tutorials: [https://dev.to/rimutaka](https://dev.to/rimutaka)
 
 ## Technical skills in detail
 
