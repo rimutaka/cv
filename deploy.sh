@@ -1,0 +1,1 @@
+aws s3 rm s3://cv.rimutaka.me/ --recursive  --profile onebro && aws s3 cp ./public/  s3://cv.rimutaka.me/ --recursive  --profile onebro
