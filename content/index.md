@@ -5,11 +5,11 @@
 # Curriculum Vitae
 
 ### Max Voskob
-##### Full Stack Rust Engineer, Product Leader, Solution Architect
+##### Full Stack Engineer, Product Leader, Solution Architect
 
 ## Quick overview
 
-#### Technology Stack
+#### Technology stack
 
 * Rust, SQL, JavaScript, TypeScript, C#, C
 * Postgres, ElasticSearch, MS SQL, DynamoDB
@@ -29,19 +29,19 @@
 
 #### Work ethics
 
-* working in distributed teams or solo
-* goal-orientated
+* Working in distributed teams or solo
+* Goal-orientated
 * Git, workflow and documentation discipline
 
 #### Open Source
 
 * [https://github.com/rimutaka](https://github.com/rimutaka)
-* co-maintainer of [quickxml_to_serde](https://github.com/AlecTroemel/quickxml_to_serde), [tachograph-reader](https://github.com/jugglingcats/tachograph-reader)
-* contributor to [AWS Lambda Rust runtime](https://github.com/awslabs/aws-lambda-rust-runtime) and other projects
+* Co-maintainer of [quickxml_to_serde](https://github.com/AlecTroemel/quickxml_to_serde), [tachograph-reader](https://github.com/jugglingcats/tachograph-reader)
+* Contributor to [AWS Lambda Rust runtime](https://github.com/awslabs/aws-lambda-rust-runtime) and other projects
 
 ## Technical skills in detail
 
-My main skill is in "solving problems". I take both, a high level view at the product and a close-up view at the technical details.
+My main skill is in "solving problems". I take both, a high level view at the product and a close-up view at the technical detail.
 
 * **Solution architecture:** system design, integration, micro-services, rapid prototyping
 * **Product leadership:** ideation, prototyping, customer research 
@@ -57,19 +57,19 @@ My main skill is in "solving problems". I take both, a high level view at the pr
 
 #### Major projects from the last 10 years
 
-* **An Android-based AI camera:** product leadership, hardware, embedded, Android Java, C# with a microservices backend on AWS: https://sensorable.io
-* **An inventory management system for e-commerce:** product leadership, solution architecture with a backend on AWS: https://mventory.com
-* **A dynamic image generation system for printing industry:** .Net, MS SQL, AWS EC2, IIS, XML/XSLT, HTML, CSS: https://zetaprints.com
+* **An Android-based AI camera:** product leadership, hardware, embedded, Android Java, C# with a microservices backend on AWS (sensorable.io)
+* **An inventory management system for e-commerce:** product leadership, solution architecture with a backend on AWS (mventory.com)
+* **A dynamic image generation system for printing industry:** .Net, MS SQL, AWS EC2, IIS, XML/XSLT, HTML, CSS (zetaprints.com)
 
 ## Work history
 
-#### **2019 - Now**: Consulting and contract work
+#### **2019 - present**: Consulting and contract work
 
 Helping businesses from all over the globe with system architecture and full stack engineering.
 
 Contributing to Open Source and Rust ecosystem.
 
-#### **2016 - August 2019**: Sensorable Systems Ltd
+#### **2016 - 2019**: Sensorable Systems Ltd
 
 *An Android-based AI camera for security, road safety and traffic analysis. The project spanned hardware, embedded and cloud software.*
 
