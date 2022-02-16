@@ -1,0 +1,21 @@
+@import "bootstrap";
+
+h1,
+h3,
+h5 {
+  @extend .text-center;
+}
+
+h1 {
+  @extend .mt-4;
+}
+
+h2 {
+  @extend .mt-5;
+  @extend .mb-3;
+  border-bottom: 1px solid #333;
+}
+
+p+h4 {
+  @extend .mt-5;
+}
