@@ -19,3 +19,13 @@ h2 {
 p+h4 {
   @extend .mt-5;
 }
+
+@media print {
+  ul+h2 {
+    page-break-before: always;
+  }
+
+  footer {
+    display: none;
+  }
+}
