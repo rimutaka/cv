@@ -1,3 +1,9 @@
+# The site is built with https://github.com/getzola/zola
+# Docs: https://www.getzola.org/documentation/getting-started/overview/
+
+# zola serve
+# zola build
+
 # remove files that do not need to be deployed
 # I do not know how to prevent them from being generated
 rm -rf ./public/content
