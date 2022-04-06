@@ -16,6 +16,7 @@ I am probably not a good fit for this particular position, but I would love to h
 * Rust 2 years, previously .Net, 20 years experience overall
 * specializing on back-end, API, AWS, Web and data processing problems
 * Rust, C#, TypeScript, SQL, No-SQL
+* solution architecture, technical writing, team leadership
 
 My full resume is attached below.
 
