@@ -3,45 +3,6 @@
 +++
 
 
-### An experienced Rust engineer / solution architect for project-based contracts
-
-Hi,
-
-I noticed you are actively looking for skilled Rust engineers.
-
-I am probably not a good fit for this particular position, but I would love to help you as an on-demand resource or on specific projects involving Rust.
-
-#### My skills
-
-* Rust 2 years, previously .Net, 20 years experience overall
-* specializing on back-end, API, AWS, Web and data processing problems
-* Rust, C#, TypeScript, SQL, No-SQL
-* solution architecture, technical writing, team leadership
-
-My full resume is attached below.
-
-#### How I can help
-
-My experience ranges from building MVPs for startups to refactoring and migration of legacy code for large companies.
-Most of the projects involved finding a solution, implementing it and providing ongoing support.  
-
-I can work as a solo developer or as part of your team.
-
-* Open source work: [https://github.com/rimutaka](https://github.com/rimutaka)
-* Technical writing: [https://dev.to/rimutaka](https://dev.to/rimutaka)
-* Contact: [max@onebro.me](mailto:max@onebro.me)
-
-
-Keep me in mind for your current and future projects. 
-
-```
-Kind regards,
-Max Voskob
-Auckland, New Zealand
-```
-
-
-
 # Curriculum Vitae
 
 ### Max Voskob
@@ -50,48 +11,50 @@ Auckland, New Zealand
 
 ## Quick overview
 
-#### Technology stack
+#### Core technology stack
 
-* Rust, SQL, JavaScript, TypeScript, C#, C
-* Postgres, ElasticSearch, MS SQL, DynamoDB
-* VueJS, GraphQL, Apollo, HTML/CSS, vanilla JS
+* Rust, TypeScript, SQL, WASM 
+* Postgres, ElasticSearch, DynamoDB
+* VueJS, GraphQL, Apollo, TailwindCSS, HTML/CSS
 * Linux, AWS, Azure, Windows
 
 #### Work experience
 * 20+ years of hands-on programming
-* 13 years as a company co-founder, product leader and full stack developer
-* 5 years of IT consulting to government and corporate clients
+* 13 years as a company co-founder, product leader and full-stack developer
+* 5 years of IT consulting for government and corporate clients
 
 #### Domains of expertise
-* Early stage projects, startups and scale-ups
+* Early-stage projects, startups and scale-ups
 * Cloud computing, APIs, web applications
 * Solution architecture and product leadership
 * Technical writing
 
-#### Work ethics
+#### Work ethic
 
-* Working in distributed teams or solo
-* Goal-orientated
+* Happy working in distributed teams or solo
+* Result-orientated
 * Git, workflow and documentation discipline
+* User and fellow developer empathy
 
 #### Open Source
 
-* [https://github.com/rimutaka](https://github.com/rimutaka)
-* Co-maintainer of [quickxml_to_serde](https://github.com/AlecTroemel/quickxml_to_serde), [tachograph-reader](https://github.com/jugglingcats/tachograph-reader)
+* Maintainer of [AWS Lambda remote debugger](https://github.com/rimutaka/lambda-debugger-runtime-emulator)
+* Co-maintainer of [quickxml_to_serde](https://github.com/AlecTroemel/quickxml_to_serde) crate and [tachograph-reader](https://github.com/jugglingcats/tachograph-reader) C# app
 * Contributor to [AWS Lambda Rust runtime](https://github.com/awslabs/aws-lambda-rust-runtime) and other projects
 * Technical writing and tutorials: [https://dev.to/rimutaka](https://dev.to/rimutaka)
+* Web browser addons and other FOSS projects: [https://github.com/rimutaka](https://github.com/rimutaka)
 
 ## Technical skills in detail
 
-My main skill is in "solving problems". I take both, a high level view at the product and a close-up view at the technical detail.
+My main skill is in solving problems. I take both, a high-level view of the product and a close-up view of the technical details.
 
 * **Solution architecture:** system design, integration, micro-services, rapid prototyping
 * **Product leadership:** ideation, prototyping, customer research 
-* **Backend:** Rust, .Net, NetCore, C#, Vb.Net, SQL, XML
+* **Backend:** Rust, SQL, NodeJS, .Net, C#, C, XML
 * **DB:** ElasticSearch, PostgreSQL, DynamoDB, MS SQL
 * **AWS:** EC2, Lambda, S3, IAM, SNS, SQS, AppSync, Cognito, RDS, OpenSearch, SES
 * **Azure:** VM, SQL, Functions, Storage, AD, Monitor, Event Hubs
-* **Frontend:** VueJS, GraphQL, Apollo, HTML, CSS, JavaScript, TypeScript 
+* **Frontend:** WASM, VueJS, GraphQL, Apollo, HTML, CSS, TypeScript, JavaScript, React  
 * **DevOps:** Git, Docker, Terraform, Jira, Confluence
 * **Electronics:** KiCAD, PCBA, digital circuit troubleshooting, prototyping
 * **Mechanical:** 3D design, 3D printing, assembly, prototyping
@@ -101,15 +64,25 @@ My main skill is in "solving problems". I take both, a high level view at the pr
 
 * **An Android-based AI camera:** product leadership, hardware, embedded, Android Java, C# with a microservices backend on AWS (sensorable.io)
 * **An inventory management system for e-commerce:** product leadership, solution architecture with a backend on AWS (mventory.com)
-* **A dynamic image generation system for printing industry:** .Net, MS SQL, AWS EC2, IIS, XML/XSLT, HTML, CSS (zetaprints.com)
+* **A dynamic image generation system for the printing industry:** .Net, MS SQL, AWS EC2, IIS, XML/XSLT, HTML, CSS (zetaprints.com)
 
 ## Work history
 
-#### **2019 - present**: Consulting and contract work
+#### **2024 - present**: Open source projects and contract work
 
-Helping businesses from all over the globe with system architecture and full stack engineering.
+Open source projects and maintaining systems I built over the years.
 
-Contributing to Open Source and Rust ecosystem.
+#### **2023 - 2024**: Sabbatical and volunteer work
+
+Palliative care volunteer.
+
+#### **2019 - 2022**: Consulting and contract work
+
+Helping businesses from all over the globe with system architecture and full-stack engineering:
+* [watercare.co.nz](https://www.watercare.co.nz/) (NodeJS, AWS, solution architecture)
+* [theoremone.co](https://www.theoremone.co/) (C#, technical writing)
+* other repeat clients (Rust, C#, AWS, Azure)
+* open source contributions
 
 #### **2016 - 2019**: Sensorable Systems Ltd
 
@@ -148,11 +121,11 @@ closely with customers and relaying my experiences and ideas back to the team.
 
 **My role**: company founder, initially solo developer, later product leader.
 
-**Challenges**: use of then novel SaaS model, early adoption of AWS, building a distributed team.
+**Challenges**: use of novel at the time SaaS model, early adoption of AWS, building a distributed team.
 
 **Achievements**: thousands of happy customers, millions of designs created and printed, financially successful.
 
-**Takeaways**: importance of excellent customer service, how to work across 4 time zones.
+**Takeaways**: the importance of excellent customer service, working across 4 time zones.
 
 ZetaPrints helped many small and medium printing businesses to switch from a manual ordering process to e-commerce with artwork customization. The MVP solution I developed initially took off and the
 demand quickly outgrew what a solo developer could provide. I shifted my role to product management, customer support and coordinating a small distributed team that stayed together for many years.
@@ -170,15 +143,3 @@ demand quickly outgrew what a solo developer could provide. I shifted my role to
 **My role**: interoperability, data and solution architecture consultant.
 
 **Clients**: large NZ businesses and government departments.
-
-#### **2001 - 2003**: EDS NZ Ltd
-
-*An internal document digitization platform to assist a major effort by a NZ government agency with a move from paper-based to an electronic workflow.*
-
-**My role**: software developer (VB6, MS SQL, IIS, MSMQ).
-
-#### **1993 - 1999**: Rostov Telephone Company
-
-*I bootstrapped a small fixed line telco company in my late teens, early 20's. A mix of good luck, bold decisions and an exceptional team helped us grow to 20,000+ subscribers in direct competition with the state-owned monopoly. The business was acquired by a competitor.*
-
-**My role**: co-founder, CEO.

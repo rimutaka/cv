@@ -6,7 +6,7 @@
 
 # remove files that do not need to be deployed
 # I do not know how to prevent them from being generated
-rm -rf ./public/content
+rm -rf ./public/cv
 rm ./public/404.html
 rm ./public/robots.txt
 rm ./public/sitemap.xml

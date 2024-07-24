@@ -26,6 +26,10 @@ p+h4 {
     page-break-before: always;
   }
 
+  h1 {
+    page-break-before:avoid !important;
+  }
+
   footer {
     display: none;
   }
