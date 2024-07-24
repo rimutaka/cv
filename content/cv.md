@@ -97,11 +97,11 @@ Helping businesses from all over the globe with system architecture and full-sta
 **Takeaways**: the value of a great team, advisors and investors.
 
 The goal of the project was to make a smart battery-powered camera with cellular connectivity using commodity hardware and electronics.
-After a series of prototypes and initial market validation, the team grew to include an electronics engineer, a 3D-designer and a machine learning expert as a co-founder. Together we launched a unique and fully functional product to make cities safer for cyclists, pedestrians and road workers.
+After a series of prototypes and initial market validation, the team grew to include an electronics engineer, a 3D designer and a machine learning expert as a co-founder. Together we launched a unique and fully functional product to make cities safer for cyclists, pedestrians and road workers.
 
 #### **2013 - 2016**: mVentory Ltd
 
-*A mobile inventory system for creating beautifully photographed and well described e-commerce listings.*
+*A mobile inventory system for creating beautifully photographed and well-described e-commerce listings.*
 
 **My role**: co-founder, product leader, solution architect.
 
