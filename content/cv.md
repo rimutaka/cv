@@ -26,7 +26,7 @@
 #### Domains of expertise
 * Early-stage projects, startups and scale-ups
 * Cloud computing, APIs, web applications
-* Solution architecture and product leadership
+* Product leadership and solution architecture (AWS certified)
 * Technical writing
 
 #### Work ethic
@@ -59,6 +59,12 @@ My main skill is in solving problems. I take both, a high-level view of the prod
 * **Electronics:** KiCAD, PCBA, digital circuit troubleshooting, prototyping
 * **Mechanical:** 3D design, 3D printing, assembly, prototyping
 * **Embedded:** C, testing, integration
+
+#### Certification
+
+* AWS Solution Architect (2024)
+* MS SQL Server Developer (2005)
+* Microsoft Solutions Architect (2005)
 
 #### Major projects from the last 10 years
 
